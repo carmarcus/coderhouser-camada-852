@@ -1,13 +1,34 @@
-body {background: ;}
-*{
-	padding:0;
-	margin:0;  
+nav header ul {
+	margin: -20%
 }
-hr{
-	color:red;
+ul{
+	text-align: right;
+	list-style: none;
+	top: 10px;
+	float: right;
+}
+ul li {
+	display: inline;
+}
+form {
+	display: block;
+	border: 80%;
+	width: 60%;
+	background-color: red;
+
+}
+
+.indexbanner-bg3{ height: 400px; width: 100%;
+	background-image: url('indexbanner-bg3.jpg');
+
 }
 .logo{
-	width:150px:; 
-	height:150px
+	width:50px:; 
+	height:50px
+
+}
+#modulo1 div {
+	float: 20% left;
+
 
 }
